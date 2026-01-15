@@ -15,4 +15,6 @@ package frc.robot.constants;
  */
 public final class Constants {
     public static final int PRIMARY_CONTROLLER_PORT = 0;
+    public static final CANBus rioBus = new CANBus("rio");
+    public static final CANBus canivoreBus = new CANBus("canivore");
 }
