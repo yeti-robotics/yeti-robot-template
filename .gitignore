@@ -337,3 +337,6 @@ bin/
 simgui-window.json
 simgui.json
 src/main/java/frc/robot/BuildConstants.java
+
+# CTRE Simulation Files
+ctre_sim/
